@@ -1,0 +1,1 @@
+This is a android app for autosign, like baidu,xiami and other applications which need sign everyday.
